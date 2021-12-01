@@ -6,12 +6,12 @@
 </br>
  
 ### <p align=center> Скриншоты и статистика из файлов FastQC или multiQC: </p>
-  <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/General_Statistics.png" style="zoom:50%;" />
-  <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/Seq_quality_histogram.png" style="zoom:50%;" />
-  <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/Sequence_counts.png" style="zoom:50%;" />
-  <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/Sequence_duplication.png" style="zoom:50%;" />
-  <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/per_seq_quality.png" style="zoom:50%;" />
-  <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/GC_content.png" style="zoom:50%;" />
+  <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/General_Statistics.png" style="zoom:30%;" />
+  <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/Seq_quality_histogram.png" style="zoom:30%;" />
+  <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/Sequence_counts.png" style="zoom:30%;" />
+  <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/Sequence_duplication.png" style="zoom:30%;" />
+  <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/per_seq_quality.png" style="zoom:30%;" />
+  <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/GC_content.png" style="zoom:30%;" />
  </br>
  </br>
   
@@ -30,6 +30,6 @@
 </br>
 
 ### <p align=center> Графики из анализа DESeq2: </p>
-  <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/MA_plot.png" style="zoom:50%;" />
-  <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/Heatmap2.png" style="zoom:50%;" />
-  <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/Heatmap.png" style="zoom:50%;" />
+  <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/MA_plot.png" style="zoom:30%;" />
+  <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/Heatmap2.png" style="zoom:30%;" />
+  <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/Heatmap.png" style="zoom:30%;" />
