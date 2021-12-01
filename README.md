@@ -3,9 +3,10 @@
   [1ая часть](https://colab.research.google.com/drive/1ZpJ5pmOwfahympql-RUCQv_kfJcQRm6v?usp=sharing)</br>
   [2ая часть](https://colab.research.google.com/drive/1XtAQeDm7U-wPJ03S-DKNwyVW68mClcyZ?usp=sharing)
 </br>
-</br>
  
 ### <p align=center> Скриншоты и статистика из файлов FastQC или multiQC: </p>
+</br>
+
   <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/General_Statistics.png" style="zoom:30%;" />
   <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/Seq_quality_histogram.png" style="zoom:30%;" />
   <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/Sequence_counts.png" style="zoom:30%;" />
