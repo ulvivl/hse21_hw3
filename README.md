@@ -8,4 +8,4 @@
   <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/Sequence_counts.png" style="zoom:50%;" />
   <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/Sequence_duplication.png" style="zoom:50%;" />
   <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/per_seq_quality.png" style="zoom:50%;" />
-3. 
+3. </br>
