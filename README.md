@@ -9,6 +9,7 @@
   <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/Sequence_duplication.png" style="zoom:50%;" />
   <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/per_seq_quality.png" style="zoom:50%;" />
   <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/GC_content.png" style="zoom:50%;" />
+  
 #### <p align=center> Полученная таблица со значениями: </p>
 
 | ID образца | Тип образца  | Общее кол-во исходных чтений | Кол-во чтений, которые были успешно откартированы на геном (не уникально) | Процент | Кол-во чтений, которые были успешно откартированы на геном (уникально) | Процент | Общее кол-во чтений, которые попали на гены |
@@ -19,7 +20,8 @@
 | **SRR3414635** | control | 20956475 | 10395865 | 97,3% | 18428317 | 88.0% | 16275997 |
 | **SRR3414636** | control | 20307147 | 19757059 | 97,3% | 17825380 | 87.8% | 15757580 |
 | **SRR3414637** | control | 20385570 | 19847291 | 97,4% | 17844858 | 87.5% | 15736978 |
-
+</br>
+</br>
 #### <p align=center> Графики из анализа DESeq2: </p>
   <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/MA_plot.png" style="zoom:50%;" />
   <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/Heatmap2.png" style="zoom:50%;" />
