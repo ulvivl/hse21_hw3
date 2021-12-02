@@ -37,3 +37,6 @@
   <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/MA_plot.png" style="zoom:30%;" />
   <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/Heatmap2.png" style="zoom:30%;" />
   <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/Heatmap.png" style="zoom:30%;" />
+  <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/Рисунок3.png" style="zoom:30%;" />
+  <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/Рисунок2.png" style="zoom:30%;" />
+  <img src="https://github.com/ulvivl/hse21_hw3/blob/main/img/Рисунок1.png" style="zoom:30%;" />
